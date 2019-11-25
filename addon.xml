@@ -6,7 +6,7 @@
 		<datadir zip="true">https://raw.githubusercontent.com/the-scouse-build/the-scouse-build.github.io/master/_zip//</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en">[B]The [COLOR mediumslateblue]Scouse Build[/COLOR][/B]</summary>
+		<summary lang="en">[B]The [COLOR mediumslateblue]Scouse Build[/COLOR] Repo[/B]</summary>
 		<description lang="en">[B]The [COLOR mediumslateblue]Scouse Build[/COLOR] repository.[/B]</description>
 		<platform>all</platform>
 	</extension>
